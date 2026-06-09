@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aftab Alam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Aftab%20Alam&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20Developer&descAlignY=58&descSize=20" />
 
 ### 🚀 About Me<br><br>💻 Full Stack & Mobile App Developer with 3+ years of experience building scalable web and mobile applications.<br><br>📱 Specialized in React Native, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.<br><br>⚡ Passionate about creating high-performance mobile applications, clean architectures, and intuitive user experiences.<br><br>🌱 Currently exploring AI-powered applications, system design, and open-source contributions.<br><br>🤝 Open to collaborating on innovative products, SaaS platforms, and React Native projects.<br><br>🎯 Focused on delivering scalable solutions that solve real-world problems.
 
