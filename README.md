@@ -7,27 +7,41 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aftab8143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aftab8143@gmail.com) 
 
 
-### 🛠️ Tech Stack
+### < /> Tech Stack & Tools
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,redux" />
-</p>
+### 🎨 Frontend
 
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
 
-### Database & Cloud
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp,vercel" />
-</p>
+### ⚙️ Backend
 
-### Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,githubactions,docker,gradle,postman,jira" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
+
+### 🗄️ Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aftab8143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
