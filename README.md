@@ -13,19 +13,11 @@
 
 ##### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
-
 `React` • `React Native` • `Next.js` • `HTML5` • `CSS3` • `TailwindCSS` • `Vite` • `React Router` • `React Hook Form` • `Redux` • `Context API` • `Expo` • `Ionic`
 
 ---
 
 ##### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
 
 `Node.js` • `Express.js` • `FastAPI` • `Socket.io` • `JWT` • `NPM` • `PNPM` • `Yarn` • `Nodemon`
 
@@ -33,19 +25,11 @@
 
 ##### 🗄️ Database & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp,vercel" />
-</p>
-
 `MongoDB` • `MySQL` • `PostgreSQL` • `Firebase` • `AWS` • `Google Cloud` • `Vercel` • `Snowflake` • `Nginx`
 
 ---
 
 ##### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
 
 `JavaScript` • `TypeScript` • `Python`
 
@@ -53,15 +37,5 @@
 
 ##### 🛠️ Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,jira,githubactions" />
-</p>
-
 `Git` • `GitHub Actions` • `Docker` • `Postman` • `Jira` • `Gradle` • `Cypress` • `Sentry`
 
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aftab8143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aftab8143&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aftab8143&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
